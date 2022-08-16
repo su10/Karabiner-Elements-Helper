@@ -33,7 +33,7 @@ $ vim ~/.config/karabiner/assets/complex_modifications/my_rules.yml
 5. Convert the YAML file to a JSON file.
 
 ```
-$ ./yaml_to_json.sh my_complex_modification.yml
+$ ./yaml_to_json.sh ~/.config/karabiner/assets/complex_modifications/
 ```
 
 If you want to test your rule immediately, run `watch.sh` to watch changes of the file and reload automatically.
