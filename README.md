@@ -7,6 +7,9 @@ With this helper, you can:
     * More precisely, the YAML file is converted to a JSON file.
 * load/reload your rule automatically in the `Karabiner-Elements Preferences` window.
 
+
+https://user-images.githubusercontent.com/1687366/184820838-69f88630-e700-4362-9de7-3bda8e3cbdb5.mov
+
 ## How to use
 
 1. Install [Homebrew](https://brew.sh/index_ja).
